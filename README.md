@@ -11,6 +11,9 @@ Our website is designed to help you plan your next adventure. Whether you are lo
 - Book Your Trip: Once you have selected your destination, use our booking feature to find the best deals on flights, hotels, and rental cars.
 - Connect with Other Travelers: Join our community of travelers and share tips, advice, and travel stories.
 
+  
+![screencapture-file-D-Desktop-HTML-Project-travel-index-html-2023-06-17-01_13_12](https://github.com/aboutmohsin/travel-site/assets/86055307/7868203f-03b0-4e32-916d-ba36c1854500)
+
 ## Technologies Used
 - HTML/CSS
 - JavaScript
